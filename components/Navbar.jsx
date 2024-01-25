@@ -1,10 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; // Import Link from react-router-dom
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg text-white">
+      <nav className="navbar navbar-dark navbar-expand-lg  text-white">
         <div className="container-fluid mx-5">
           <img
             src="https://expologistics.info/wp-content/uploads/2021/04/1-e1693579066956.png"
@@ -23,23 +23,23 @@ const Navbar = () => {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul className="navbar-nav nav-ul "> {/* Add text-white class to make the text white */}
+            <ul className="navbar-nav nav-ul text-white">
               <li className="nav-item mx-2 fs-6 fw-bold">
                 <Link to="/" className="nav-link active" aria-current="page">
                   Home
                 </Link>
               </li>
-              <li className="nav-item mx-2 fs-6 text-white fw-bold">
+              <li className="nav-item mx-2 fs-6 fw-bold text-white">
                 <Link to="/about" className="nav-link">
                   About
                 </Link>
               </li>
-              <li className="nav-item mx-2 fs-6 fw-bold  ">
+              <li className="nav-item mx-2 fs-6 fw-bold text-white">
                 <Link to="/services" className="nav-link">
                   Services
                 </Link>
               </li>
-              <li className="nav-item mx-2 fs-6 fw-bold">
+              <li className="nav-item mx-2 fs-6 fw-bold text-white">
                 <Link to="/contact" className="nav-link">
                   Contact
                 </Link>
