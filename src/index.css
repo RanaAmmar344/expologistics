@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins',sans-serif;
-   
+   overflow-x: hidden;
  
 }
 
@@ -25,6 +25,7 @@ body{
 
     background-color: #82AAFC;
     height: 553px;
+    
 }
 .home-title{
     font-size: 55px;
