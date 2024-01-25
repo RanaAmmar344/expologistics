@@ -219,8 +219,8 @@ iframe{
 .wrw-img{
 
     position: relative;
-    width: 315px;
-    right: 11px;
+    width: 100%;
+  
 }
 
 
@@ -234,7 +234,7 @@ iframe{
 }
 .our-team-img{
 
-    width: 320px;
+    width: 100%;
     position: relative;
     top: 16px;
     right: 13px;
