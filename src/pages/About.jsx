@@ -8,7 +8,7 @@ const About = () => {
     <>
     <div className="about text-white">
      <Navbar/>
-     <div className="row m-5 p-3">
+     <div className="row m-5 p-3 res-service-header">
         <div className="col-md-6 p-5  text-center">
             <h1 className='home-title' >About Us</h1>
             <p >With a team of industry veterans who have collectively spent decades mastering the art of dispatching, we set out to build a company that redefines what's possible in logistics.</p>
@@ -24,9 +24,9 @@ const About = () => {
             <div className="col-md-6">
                 <img className='wrw-img' width={550} src="https://expologistics.info/wp-content/uploads/2023/08/highway-road-trucks-3392100-1.jpg" alt="" />
             </div>
-            <div className="col-md-6 wrw "> 
-            <div className='p-5'>   
-            <h1 className='fw-bold  ' >Who Are We?</h1>
+            <div className="col-md-6 wrw    "> 
+            <div className='p-5  '>   
+            <h1 className='fw-bold  res-about-wrw  ' >Who Are We?</h1>
             <p className='lh-lg' >At Expo Logistics, we’re more than just a logistics service provider; we’re your dedicated partners in navigating the complex world of truck dispatching. Our journey began with a simple yet powerful vision: to revolutionize the transportation industry by delivering efficient, reliable, and cost-effective dispatching solutions. Today, we stand as a testament to our  brunwavering commitment to that vision.</p>
             </div>
             </div>

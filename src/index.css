@@ -220,7 +220,9 @@ iframe{
 .wrw-img{
 
     position: relative;
-    width: 100%;
+
+    width: 290px;
+    right: 12px;
   
 }
 
@@ -230,6 +232,8 @@ iframe{
     position: relative;
     top: 12px;
     width: 100%;
+   
+   
 
     
 }
@@ -240,5 +244,73 @@ iframe{
     top: 16px;
     right: 13px;
 }
+.res-about-wrw{
+    width: 100%;
+    font-size: 22px;
 
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* * ////////////////////////////////////////Service/////////////////////////////////////////////////////////// **/
+
+.service-section-3{
+    background-color: #4175FC;
+    height: auto;
+    width: 100%;
+    margin-right: 46px;
+}
+.service-section-img{
+
+    background-image: url('./images/truck.png');
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+.service-section-text{
+
+    font-size: 90px;
+    font-weight: bold;
+}
+
+
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////Service Responsive Query  ////////////////////////////////////////////////////////////////// */
+
+@media (max-width : 600px) {
+    .res-service-header{
+
+        width: 100%;
+        position: relative;
+        right: 44px;
+       
+        font-size: large;
+    }
+
+  
+    .service-section-img {
+       
+        height: 600px;
+        
+
+    }
+    .service-section-text{
+
+        font-size: large;
+    }
+   
 }

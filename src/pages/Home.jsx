@@ -48,7 +48,7 @@ const Home = () => {
     <div className="row mt-5 mx-5">
       <div className="col-md-4">
       <div className="home-cards">
-      <img className='rounded mb-3 res-hom-card-img' c  src="https://expologistics.info/wp-content/uploads/2023/08/truck-delivery-trailer-4276755.jpg" width={400} alt="" />
+      <img className='rounded mb-3 res-hom-card-img' c  src="https://expologistics.info/wp-content/uploads/2023/08/truck-delivery-trailer-4276755.jpg" width='100%' alt="" />
 
 <h3>Truck Dispatching Services</h3>
 <p>Our cutting-edge truck dispatching services ensure that your cargo is in the right hands from start to finish. We leverage advanced technology and industry expertise to optimize routes, manage schedules, and provide real-time tracking, all while keeping your costs in check.</p>
@@ -57,7 +57,7 @@ const Home = () => {
       </div>
       <div className="col-md-4">
       <div className="home-cards">
-      <img className='rounded mb-3 res-hom-card-img'  src="https://expologistics.info/wp-content/uploads/2023/08/truck-trucks-commercial-vehicle-3910170.jpg" width={400} alt="" />
+      <img className='rounded mb-3 res-hom-card-img'  src="https://expologistics.info/wp-content/uploads/2023/08/truck-trucks-commercial-vehicle-3910170.jpg" width='100%' alt="" />
 
 <h3>Load Matching</h3>
 <p>Say goodbye to empty trucks and lost opportunities. Our load matching service connects shippers with available carriers, making sure every mile counts and every load is profitable.</p>
@@ -66,7 +66,7 @@ const Home = () => {
       </div>
       <div className="col-md-4">
       <div className="home-cards">
-      <img className='rounded mb-3 res-hom-card-img'  src="https://expologistics.info/wp-content/uploads/2023/08/truck-password-worth-trucks-2663163.jpg" width={400} alt="" />
+      <img className='rounded mb-3 res-hom-card-img'  src="https://expologistics.info/wp-content/uploads/2023/08/truck-password-worth-trucks-2663163.jpg" width='100%' alt="" />
 
 <h3>Fleet Management</h3>
 <p >Keep your fleet on the road and your business on track with our comprehensive fleet management solutions. From maintenance scheduling to driver performance tracking, we’ve got your assets covered.</p>
