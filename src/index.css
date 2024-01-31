@@ -312,7 +312,7 @@ flex-direction: column;
 
         font-size: large;
     }
-    .help-contact{
+    .help-contact-3{
 
         width: 100%;
         position: relative;
@@ -331,6 +331,17 @@ flex-direction: column;
        position: relative;
        left: 33px;
    
+    }
+    .help-contact{
+
+        width: 100%;
+       
+        
+    }
+    .home-title{
+
+        text-align: center;
+        width: 100%;
     }
    
 }
