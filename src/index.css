@@ -312,5 +312,64 @@ flex-direction: column;
 
         font-size: large;
     }
+    .help-contact{
+
+        width: 100%;
+        position: relative;
+        top: 22px;
+
+        
+    }
+    .contact-section-3{
+
+        text-align: center;
+        font-size: small;
+    }
+    .mapi{
+
+        width: 100%;
+       position: relative;
+       left: 33px;
    
+    }
+   
+}
+
+
+.contact-section-text{
+
+    
+   height: 520px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   padding: 12px;
+   text-align: right;
+}
+
+.contact-section-2{
+
+    background-color: #4175FC;
+    height: auto;
+}
+
+.help-contact{
+
+    position: relative;
+    left: 12px;
+}
+
+.contact-section-3{
+
+    height: 300px;
+    background-color: #084AF3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.section-3-text{
+
+    font-size: 60px;
 }
