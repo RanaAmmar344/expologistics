@@ -13,7 +13,7 @@ const Home = () => {
     <div className="home text-white">
     <Navbar/>  
     <div className="row res-home-row mt-5">
-        <div className="col-md-6 text-center mt-5 pt-5">
+        <div className="col-md-6 text-center mt-2 pt-4">
             <h1 className='home-title '>Welcome to Expo <br /> logistics</h1>
             <p className='mx-5 res-home-p '>At Expo Logistics, we take pride in delivering top-notch truck dispatching solutions that keep your operations <br /> running  smoothly.</p>
      
