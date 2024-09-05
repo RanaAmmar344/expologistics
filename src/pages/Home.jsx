@@ -29,7 +29,7 @@ const Home = () => {
     <div className="home-section-2 mt-5 pt-5">
    <div className="row mx-5 ">
     <div className="col-md-6">
-        <img width={550} height={300} className='section-2-img' src="https://expologistics.info/wp-content/uploads/2023/08/truck-volvo-bostrand-2391940.jpg" alt="" />
+        <img width={550} height={300} className='section-2-img' src="https://cdn.pixabay.com/photo/2019/09/26/20/17/transportation-4506971_1280.jpg" alt="" />
     </div>
     <div className="col-md-6">
       <h1 className='fw-bold mb-3'>Who Are We?</h1>
@@ -48,7 +48,7 @@ const Home = () => {
     <div className="row mt-5 mx-5">
       <div className="col-md-4">
       <div className="home-cards">
-      <img className='rounded mb-3 res-hom-card-img' c  src="https://expologistics.info/wp-content/uploads/2023/08/truck-delivery-trailer-4276755.jpg" width='100%' alt="" />
+      <img className='rounded mb-3 res-hom-card-img' c  src="https://cdn.pixabay.com/photo/2012/03/02/00/26/shanghai-20633_1280.jpg" width='100%' alt="" />
 
 <h3>Truck Dispatching Services</h3>
 <p>Our cutting-edge truck dispatching services ensure that your cargo is in the right hands from start to finish. We leverage advanced technology and industry expertise to optimize routes, manage schedules, and provide real-time tracking, all while keeping your costs in check.</p>
@@ -57,7 +57,7 @@ const Home = () => {
       </div>
       <div className="col-md-4">
       <div className="home-cards">
-      <img className='rounded mb-3 res-hom-card-img'  src="https://expologistics.info/wp-content/uploads/2023/08/truck-trucks-commercial-vehicle-3910170.jpg" width='100%' alt="" />
+      <img className='rounded mb-3 res-hom-card-img'  src="https://cdn.pixabay.com/photo/2021/11/14/12/53/ship-6794508_1280.jpg" width='100%' alt="" />
 
 <h3>Load Matching</h3>
 <p>Say goodbye to empty trucks and lost opportunities. Our load matching service connects shippers with available carriers, making sure every mile counts and every load is profitable.</p>
@@ -66,7 +66,7 @@ const Home = () => {
       </div>
       <div className="col-md-4">
       <div className="home-cards">
-      <img className='rounded mb-3 res-hom-card-img'  src="https://expologistics.info/wp-content/uploads/2023/08/truck-password-worth-trucks-2663163.jpg" width='100%' alt="" />
+      <img className='rounded mb-3 res-hom-card-img'  src="https://cdn.pixabay.com/photo/2018/02/02/11/01/logistics-3125131_1280.jpg" width='100%' alt="" />
 
 <h3>Fleet Management</h3>
 <p >Keep your fleet on the road and your business on track with our comprehensive fleet management solutions. From maintenance scheduling to driver performance tracking, we’ve got your assets covered.</p>
@@ -99,7 +99,7 @@ const Home = () => {
           <button type="button" className="btn btn-light text-primary mt-4 p-3 fw-bold">Get A Quote <FaArrowRight /> </button>
         </div>
         <div className="col-md-6">
-         <img className='home-section-4-img' src="https://expologistics.info/wp-content/uploads/2023/08/truck-road-vehicle-2407264.jpg" alt="" />
+         <img className='home-section-4-img' src="https://cdn.pixabay.com/photo/2014/10/30/17/13/truck-509467_1280.jpg" alt="" />
         </div>
       </div>
     </div>
@@ -179,24 +179,24 @@ const Home = () => {
 <div className="home-section-5 mt-5">
 <div className="row mx-5 ">
   <div className="col-md-4">
-    <img width={400} src="https://expologistics.info/wp-content/uploads/2023/08/tank-truck-truck-tractor-1388933.jpg" alt="" />
+    <img width={400} src="https://cdn.pixabay.com/photo/2015/06/25/16/54/train-821500_1280.jpg" alt="" />
   </div>
   <div className="col-md-4">
-    <img width={400}  src="https://expologistics.info/wp-content/uploads/2023/08/formula-1-truck-red-2701335.jpg" alt="" />
+    <img width={400}  src="https://cdn.pixabay.com/photo/2017/01/29/15/21/container-2018508_1280.jpg" alt="" />
   </div>
   <div className="col-md-4">
-    <img width={400} height={300}  src="https://expologistics.info/wp-content/uploads/2023/08/truck-vehicle-commercial-vehicle-333251.jpg" alt="" />
+    <img width={400} height={300}  src="https://cdn.pixabay.com/photo/2016/12/16/09/06/truck-1910871_1280.jpg" alt="" />
   </div>
 </div>
 <div className="row mx-5 mt-3 ">
   <div className="col-md-4">
-    <img width={400} src="https://expologistics.info/wp-content/uploads/2023/08/truck-load-transport-1565478.jpg" alt="" />
+    <img width={400} src="https://cdn.pixabay.com/photo/2017/01/30/03/12/antwerp-2019990_1280.jpg" alt="" />
   </div>
   <div className="col-md-4">
-    <img width={400}  src="https://expologistics.info/wp-content/uploads/2023/08/truck-semi-transportation-3401529.jpg" alt="" />
+    <img width={400}  src="https://cdn.pixabay.com/photo/2019/08/22/20/18/truck-4424342_1280.jpg" alt="" />
   </div>
   <div className="col-md-4">
-    <img width={400}    src="https://expologistics.info/wp-content/uploads/2023/08/truck-semi-trailer-australia-587819.jpg" alt="" />
+    <img width={400}    src="https://cdn.pixabay.com/photo/2019/11/05/07/47/port-4602964_1280.jpg" alt="" />
   </div>
 </div>
 
@@ -206,7 +206,7 @@ const Home = () => {
 <div className="home-section-6 mt-5 pt-5">
 <div className="row mx-5">
 <div className="col-md-6">
-  <img className='help-contact' width={500} src="https://expologistics.info/wp-content/uploads/2023/08/truck-delivery-trailer-4276755-1024x682.jpg" alt="" />
+  <img className='help-contact' width={500} src="https://cdn.pixabay.com/photo/2018/05/02/21/36/transport-3369756_1280.jpg" alt="" />
 </div>
 <div className="col-md-6 ">
  <h1 className='fw-bold text-white' >We're here to help! Contact Us Today!</h1>

@@ -67,7 +67,7 @@ const Contact = () => {
                 <div className="home-section-6 ">
 <div className="row mx-5">
 <div className="col-md-6 contact-help-section">
-  <img className='help-contact-3' width='100%' height={400} src="https://expologistics.info/wp-content/uploads/2023/08/canada-trucks-truck-784392.jpg" alt="" />
+  <img className='help-contact-3' width='100%' height={400} src="https://cdn.pixabay.com/photo/2019/07/19/19/49/truck-4349523_1280.jpg" alt="" />
 </div>
 <div className="col-md-6 mt pt-5 px-5 mt-5 ">
  <h1 className='fw-bold text-white' >We're here to help! Call Us Today!</h1>

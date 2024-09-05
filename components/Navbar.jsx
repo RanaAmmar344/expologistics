@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import logoi from '../src/images/trucklogo.png'
 
 const Navbar = () => {
   return (
@@ -7,9 +8,10 @@ const Navbar = () => {
       <nav className="navbar navbar-dark navbar-expand-lg  text-white">
         <div className="container-fluid mx-5">
           <img
-            src="https://expologistics.info/wp-content/uploads/2021/04/1-e1693579066956.png"
+            src={logoi}
             alt=""
-            width={150}
+            width={200}
+            height={140}
           />
           <button
             className="navbar-toggler"

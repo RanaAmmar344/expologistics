@@ -4,6 +4,7 @@ import { AiFillFacebook} from 'react-icons/ai';
 import {AiOutlineTwitter} from 'react-icons/ai';
 import {AiOutlineInstagram} from 'react-icons/ai';
 import {BiLogoGmail} from 'react-icons/bi';
+import logoi from '../src/images/trucklogo.png'
 
 const Footer = () => {
   return (
@@ -12,7 +13,7 @@ const Footer = () => {
     <div className="row  ">
 
     <div className="col-md-4 offset-md-1 mb-3 mx-3">
-      <img src='https://expologistics.info/wp-content/uploads/2021/04/1-e1693579066956.png' alt="Bootstrap "  className="change-color mb-2"  width="150" height="60"/>
+      <img src={logoi} alt="Bootstrap "  className="change-color mb-2"  width="200" height="100"/>
       <p className='footer-text'> Suspendisse quis sodales nunc. Sed ligula enim, mattis ut sem id, mollis sagittis sapien.</p>
         <form>
           <h5>Subscribe to our newsletter</h5>

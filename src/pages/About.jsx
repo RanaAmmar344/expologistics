@@ -22,7 +22,7 @@ const About = () => {
     <div className="about-section-1">
         <div className="row mx-5 mt-5 pt-5">
             <div className="col-md-6">
-                <img className='wrw-img' width={550} src="https://expologistics.info/wp-content/uploads/2023/08/highway-road-trucks-3392100-1.jpg" alt="" />
+                <img className='wrw-img' width={550} src="https://media.istockphoto.com/id/1443627519/photo/two-truck-driving-colleagues-happy-to-greet-each-other-again.jpg?s=612x612&w=0&k=20&c=yTGJvdqflZkI4MUXL8Wp1nTqLAZcYKeFQ7fhnMDzbRg=" alt="" />
             </div>
             <div className="col-md-6 wrw    "> 
             <div className='p-5  '>   
@@ -56,7 +56,7 @@ const About = () => {
             </div>
             </div>
             <div className="col-md-6">
-                <img className='our-team-img' width={550} src="https://expologistics.info/wp-content/uploads/2023/08/loader-gravel-digger-1846346.jpg" alt="" />
+                <img className='our-team-img' width={550} src="https://cdn.pixabay.com/photo/2017/01/14/10/56/people-1979261_1280.jpg" alt="" />
             </div>
            
         </div>
@@ -67,7 +67,7 @@ const About = () => {
     <div className="home-section-6 mt-5 pt-5">
 <div className="row mx-5">
 <div className="col-md-6">
-  <img className='help-contact' width={500} src="https://expologistics.info/wp-content/uploads/2023/08/truck-freight-transportation-2677373.jpg" alt="" />
+  <img className='help-contact' width={500} src="https://cdn.pixabay.com/photo/2018/05/02/21/36/transport-3369756_1280.jpg" alt="" />
 </div>
 <div className="col-md-6 ">
  <h1 className='fw-bold text-white' >We're here to help! Contact Us Today!</h1>
