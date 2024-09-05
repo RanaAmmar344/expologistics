@@ -48,7 +48,7 @@ const Home = () => {
     <div className="row mt-5 mx-5">
       <div className="col-md-4">
       <div className="home-cards">
-      <img className='rounded mb-3 res-hom-card-img' c  src="https://cdn.pixabay.com/photo/2012/03/02/00/26/shanghai-20633_1280.jpg" width='100%' alt="" />
+      <img className='rounded mb-3 res-hom-card-img' c  src="https://cdn.pixabay.com/photo/2015/01/17/22/17/truck-602567_1280.jpg" width='100%' alt="" />
 
 <h3>Truck Dispatching Services</h3>
 <p>Our cutting-edge truck dispatching services ensure that your cargo is in the right hands from start to finish. We leverage advanced technology and industry expertise to optimize routes, manage schedules, and provide real-time tracking, all while keeping your costs in check.</p>
@@ -57,7 +57,7 @@ const Home = () => {
       </div>
       <div className="col-md-4">
       <div className="home-cards">
-      <img className='rounded mb-3 res-hom-card-img'  src="https://cdn.pixabay.com/photo/2015/01/17/22/17/truck-602567_1280.jpg" width='100%' alt="" />
+      <img className='rounded mb-3 res-hom-card-img'  src="https://cdn.pixabay.com/photo/2021/11/14/12/53/ship-6794508_1280.jpg" width='100%' alt="" />
 
 <h3>Load Matching</h3>
 <p>Say goodbye to empty trucks and lost opportunities. Our load matching service connects shippers with available carriers, making sure every mile counts and every load is profitable.</p>
